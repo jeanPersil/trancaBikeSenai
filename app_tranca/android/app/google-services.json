@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "272504469517",
+    "firebase_url": "https://ledwoki-default-rtdb.firebaseio.com",
+    "project_id": "ledwoki",
+    "storage_bucket": "ledwoki.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272504469517:android:6bac215e5dd03f2fbdbd44",
+        "android_client_info": {
+          "package_name": "com.example.tranca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8N0-O7DG9B2sf0seLfU9khnT5lGqgJK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
